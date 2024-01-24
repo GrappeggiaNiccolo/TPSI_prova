@@ -1,0 +1,1 @@
+File per sperimentare l'esecuzione di commit/push e verificare lo status
